@@ -1,0 +1,15 @@
+D:\Practices\DotNetPrac\DockerDotNetCore\App\bin\Debug\net6.0\DotNet.Docker.exe
+D:\Practices\DotNetPrac\DockerDotNetCore\App\bin\Debug\net6.0\DotNet.Docker.deps.json
+D:\Practices\DotNetPrac\DockerDotNetCore\App\bin\Debug\net6.0\DotNet.Docker.runtimeconfig.json
+D:\Practices\DotNetPrac\DockerDotNetCore\App\bin\Debug\net6.0\DotNet.Docker.dll
+D:\Practices\DotNetPrac\DockerDotNetCore\App\bin\Debug\net6.0\DotNet.Docker.pdb
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.csproj.AssemblyReference.cache
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.AssemblyInfoInputs.cache
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.AssemblyInfo.cs
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.dll
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\refint\DotNet.Docker.dll
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.pdb
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\DotNet.Docker.genruntimeconfig.cache
+D:\Practices\DotNetPrac\DockerDotNetCore\App\obj\Debug\net6.0\ref\DotNet.Docker.dll
